@@ -1,0 +1,10 @@
+<settings>
+<category label="Platinum">
+     <setting id="server1user" type="text" label="Username" default=""/>
+     <setting id="server1pass" type="text" label="Password" default=""/>
+</category>
+<category label="Gold">
+     <setting id="server2user" type="text" label="Username" default=""/>
+     <setting id="server2pass" type="text" label="Password" default=""/>
+</category>
+</settings>
